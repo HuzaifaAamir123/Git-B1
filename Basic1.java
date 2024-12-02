@@ -6,6 +6,7 @@ public class Basic1 {
         int b=20;
 
         System.out.println(a+b);
+        System.out.println("Huzaifa Aamir");
     }
 
 }
