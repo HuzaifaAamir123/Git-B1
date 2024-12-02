@@ -7,6 +7,7 @@ public class Basic1 {
 
         System.out.println(a+b);
         System.out.println("Huzaifa Aamir");
+        System.out.println("Momin Abdullah");
     }
 
 }
